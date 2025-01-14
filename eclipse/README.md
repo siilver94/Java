@@ -1,5 +1,9 @@
 # Eclipse
 
+<code><img height = "350"
+src = https://github.com/user-attachments/assets/9d45666d-3f0c-44db-bb04-df42ff5a630f></code>
+
+
 ## 개요
 
 이클립스(영어: Eclipse)는 다양한 플랫폼에서 쓸 수 있으며, 자바를 비롯한 다양한 언어를 지원하는 프로그래밍 통합 개발 환경을 목적으로 시작하였으나, 현재는 OSGi를 도입하여, 범용 응용 소프트웨어 플랫폼으로 진화하였다.
