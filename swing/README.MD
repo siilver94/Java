@@ -1,5 +1,7 @@
 # JAVA Swing
 
+<br/>
+
 ## Swing 이란?
 
 자바의 JFC(Java Foundation Class)는 GUI 프로그래밍에 필요한 각종 킷을 모아놓은 것으로 현재는 GUI의 기능들을 구현할 수 있는 스윙, 2D, Drag&Drop 등을 지원합니다. 스윙을 사용하는 방법은 AWT와 거의 유사하나 AWT보다는 많은 컴포넌트 및 기능을 지원하고 있습니다. 스윙은 AWT와 달리 자바 프로그래밍으로 자체적인 제작된 컴포넌트이므로 플랫폼에 관계없이 모양이 동일하게 사용할 수 있습니다. 
@@ -83,5 +85,5 @@ MVC모델은 3가지로 구성되어 있는데, 컴포넌트가 표현해야 하
 
 윈도우의 메뉴를 제공하는 역할로 생략이 가능한 선택항목이다.  JMenu, JmenuItem등을 이용해서 메뉴를 구성하여 setJMenuBar()메서드을 이용해서 등록할 수 있습니다.
 
-출처 : https://coding-factory.tistory.com/263
+*출처 : https://coding-factory.tistory.com/263*
 
